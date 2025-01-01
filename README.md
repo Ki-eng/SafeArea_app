@@ -1,7 +1,3 @@
-# Flutter Text in Safe Area App
-
-A simple Flutter app that demonstrates the use of the `SafeArea` widget to ensure that content is displayed within the visible boundaries of the screen, avoiding areas like the status bar, notch, or system UI components.
-
 ## 📋 Features
 
 - **SafeArea Widget**: Ensures that the content (text in this case) is displayed within the visible part of the screen, avoiding system UI elements like the status bar or navigation bar.
